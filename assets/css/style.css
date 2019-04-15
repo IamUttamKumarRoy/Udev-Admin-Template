@@ -1,0 +1,50 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+.signin-wrapper{
+	max-width: 400px;
+	margin: 0 auto;
+	padding-top: 10vh;
+}
+.page-content{
+    background: #e5e5e5;
+    height: 100vh;
+    
+}
+.signin-content {
+    background: #fff;
+    padding: 30px 30px 20px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.signin-logo {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.signin-reg-heading{
+	font-size: 1.2em;
+}
+.signin{
+	display: flex;
+	justify-content: space-between;
+}
+.signin-btn{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.signin-fb-btn{
+	background: #4272d7;
+}
+.signin-tw-btn{
+	background: #00ACED;
+}
+.register-link-group{
+	display: flex;
+	justify-content: space-between;
+}
